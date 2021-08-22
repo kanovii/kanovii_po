@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/kanovii_po/static/css/main.c26d2b9f.chunk.css",
-    "main.js": "/kanovii_po/static/js/main.168154a5.chunk.js",
-    "main.js.map": "/kanovii_po/static/js/main.168154a5.chunk.js.map",
+    "main.js": "/kanovii_po/static/js/main.23295e0d.chunk.js",
+    "main.js.map": "/kanovii_po/static/js/main.23295e0d.chunk.js.map",
     "runtime-main.js": "/kanovii_po/static/js/runtime-main.07c88686.js",
     "runtime-main.js.map": "/kanovii_po/static/js/runtime-main.07c88686.js.map",
     "static/js/2.dad05c9d.chunk.js": "/kanovii_po/static/js/2.dad05c9d.chunk.js",
     "static/js/2.dad05c9d.chunk.js.map": "/kanovii_po/static/js/2.dad05c9d.chunk.js.map",
     "index.html": "/kanovii_po/index.html",
     "static/css/main.c26d2b9f.chunk.css.map": "/kanovii_po/static/css/main.c26d2b9f.chunk.css.map",
-    "static/js/2.dad05c9d.chunk.js.LICENSE.txt": "/kanovii_po/static/js/2.dad05c9d.chunk.js.LICENSE.txt"
+    "static/js/2.dad05c9d.chunk.js.LICENSE.txt": "/kanovii_po/static/js/2.dad05c9d.chunk.js.LICENSE.txt",
+    "static/media/main.jpg": "/kanovii_po/static/media/main.9c01a1f9.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.07c88686.js",
     "static/js/2.dad05c9d.chunk.js",
     "static/css/main.c26d2b9f.chunk.css",
-    "static/js/main.168154a5.chunk.js"
+    "static/js/main.23295e0d.chunk.js"
   ]
 }
