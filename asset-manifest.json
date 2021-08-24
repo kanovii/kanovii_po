@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/kanovii_po/static/css/main.6cf57b44.chunk.css",
-    "main.js": "/kanovii_po/static/js/main.5fa847f4.chunk.js",
-    "main.js.map": "/kanovii_po/static/js/main.5fa847f4.chunk.js.map",
+    "main.css": "/kanovii_po/static/css/main.393d45db.chunk.css",
+    "main.js": "/kanovii_po/static/js/main.a7f0f0e0.chunk.js",
+    "main.js.map": "/kanovii_po/static/js/main.a7f0f0e0.chunk.js.map",
     "runtime-main.js": "/kanovii_po/static/js/runtime-main.07c88686.js",
     "runtime-main.js.map": "/kanovii_po/static/js/runtime-main.07c88686.js.map",
     "static/js/2.dad05c9d.chunk.js": "/kanovii_po/static/js/2.dad05c9d.chunk.js",
     "static/js/2.dad05c9d.chunk.js.map": "/kanovii_po/static/js/2.dad05c9d.chunk.js.map",
     "index.html": "/kanovii_po/index.html",
-    "static/css/main.6cf57b44.chunk.css.map": "/kanovii_po/static/css/main.6cf57b44.chunk.css.map",
+    "static/css/main.393d45db.chunk.css.map": "/kanovii_po/static/css/main.393d45db.chunk.css.map",
     "static/js/2.dad05c9d.chunk.js.LICENSE.txt": "/kanovii_po/static/js/2.dad05c9d.chunk.js.LICENSE.txt",
-    "static/media/main.jpg": "/kanovii_po/static/media/main.9c01a1f9.jpg"
+    "static/media/main.jpg": "/kanovii_po/static/media/main.9c01a1f9.jpg",
+    "static/media/sojin.jpg": "/kanovii_po/static/media/sojin.c3b72f2d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.07c88686.js",
     "static/js/2.dad05c9d.chunk.js",
-    "static/css/main.6cf57b44.chunk.css",
-    "static/js/main.5fa847f4.chunk.js"
+    "static/css/main.393d45db.chunk.css",
+    "static/js/main.a7f0f0e0.chunk.js"
   ]
 }
