@@ -8,7 +8,7 @@ function App() {
     <div className="App_container">
 
       <AppRouter />
-      <div>&copy;</div>
+      <div>&copy;&copy;</div>
     </div>
   );
 }
